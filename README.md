@@ -86,4 +86,8 @@ AModuleAndPluginCharacter::AModuleAndPluginCharacter()
 }
 ```
 
+마지막으로 레벨에 TriggerBox, Pain Causing Volume을 각각 설치하고,
 
+<img width="428" height="370" alt="image" src="https://github.com/user-attachments/assets/79cfe114-b455-4646-be0d-a67766b2756d" />
+
+TriggerBox Overlab시 캐릭터가 회복하도록 하여 체력값 관련 액션이 정상 작동하는것을 확인.
