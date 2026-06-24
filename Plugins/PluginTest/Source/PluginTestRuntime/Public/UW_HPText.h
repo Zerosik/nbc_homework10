@@ -8,6 +8,7 @@
 
 class UTextBlock;
 class AActor;
+class UHealthComponent;
 /**
  * 
  */
